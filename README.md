@@ -51,10 +51,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simplified-games&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simplified-games&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
@@ -69,7 +65,7 @@
 | 🏆 Project | 📝 Description | 🛠 Stack |
 |---|---|---|
 | [**NorMSG**](https://simplified-games.github.io/normsg/) | A blazing-fast messaging platform, with games and group chats! | HTML · JS · CSS |
-| [**Simulation**](Not Available to Public) | Metroidvania Game! | GDScript |
+| [**Simulation**] (Not Available to Public) | Metroidvania Game! | GDScript |
 | [**SimpleSpace**](https://simplified-games.github.io/app/) | My Website | HTML · JS · CSS |
 
 ---
@@ -105,7 +101,7 @@
 ---
 
 <p align="center">
-  <sub>✨ Profile crafted with passion &amp; too much code...</sub>
+  <sub>✨ Profile crafted with passion &amp; too much code...<br></sub>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=simplified-games&color=blueviolet&style=flat-square" alt="Visitor Count" />
 </p>
